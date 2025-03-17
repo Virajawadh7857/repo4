@@ -1,3 +1,7 @@
 Pankaj Sir Academy
 Pankaj Sir Academy
 
+public Class B{
+
+	int x=100;
+}
